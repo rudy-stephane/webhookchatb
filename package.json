@@ -1,0 +1,29 @@
+{
+  "name": "webhookchatb",
+  "version": "1.0.0",
+  "description": "webhook pour etendre l'intent de création de compte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudy-stephane/webhookchatb.git"
+  },
+  "keywords": [
+    "heroku",
+    "node",
+    "express"
+  ],
+  "author": "rudy stephane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudy-stephane/webhookchatb/issues"
+  },
+  "homepage": "https://github.com/rudy-stephane/webhookchatb#readme",
+  "dependencies": {
+    "ht": "0.0.2",
+    "nodemailer": "^5.0.0",
+    "pdfkit": "^0.8.3"
+  }
+}
